@@ -25,37 +25,37 @@ class Form2{
         var greeting1=createElement("h1");
         
         ques1.html("Q.1 Do you think we need to have free lunch meals in our school canteen for the kids who are very poor.")
-        ques1.position(150,100);
+        ques1.position(180,100);
         //ques1.hide();
 
        
         ques2.html("Q.2 Would you be willing to contribute a small amount every month for such a program?");
-        ques2.position(150,190);
+        ques2.position(180,190);
         //ques2.hide();
 
         
         ques3.html("Q.3 How much per month would you be willing to pay? (in Rupees)");
-        ques3.position(150,270);
+        ques3.position(180,270);
         //ques3.hide();
 
         
         ques4.html("Q.4 In which school will you be willing to donate money?");
-        ques4.position(150,340);
+        ques4.position(180,340);
         //ques4.hide();
 
         
         ques5.html("Q.5 According to you children of which grade should be given free meal? ");
-        ques5.position(150,410);
+        ques5.position(180,410);
         //ques5.hide();
 
         
         ques6.html("Q.6 Do you think it will increase the enrollment of children in school?");
-        ques6.position(150,480);
+        ques6.position(180,480);
         //ques6.hide();
 
         
         ques7.html("Q.7 Any other suggestions");
-        ques7.position(150,550);
+        ques7.position(180,550);
         //ques7.hide();
 
         var ans1=createRadio("h2");
